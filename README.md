@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**AdDiscendi/AdDiscendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **AdDiscendi**, a passionate developer based in Belgium. I love exploring new technologies and creating impactful projects. Let's collaborate and build something amazing together!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a ESB developer with a keen interest in various programming languages and frameworks. Currently based in **Belgium**, I thrive on solving complex problems and enhancing my skills in the tech industry. I am currently working on webMethods and Mulesoft integration. 
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,git,github&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+[![**pattern-lab**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=pattern-lab&theme=dark)](https://github.com/AdDiscendi/pattern-lab)
+[![**elixir-exercises**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=elixir-exercises&theme=dark)](https://github.com/AdDiscendi/elixir-exercises)
+[![**counter**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=counter&theme=dark)](https://github.com/AdDiscendi/counter)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdDiscendi&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdDiscendi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
