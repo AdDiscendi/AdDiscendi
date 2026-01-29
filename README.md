@@ -10,12 +10,6 @@ I am a ESB developer with a keen interest in various programming languages and f
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,github&perline=8)](https://skillicons.dev)
 
-## Top Projects
-
-[![**pattern-lab**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=pattern-lab&theme=dark)](https://github.com/AdDiscendi/pattern-lab)
-[![**elixir-exercises**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=elixir-exercises&theme=dark)](https://github.com/AdDiscendi/elixir-exercises)
-[![**counter**](https://github-readme-stats.vercel.app/api/pin/?username=AdDiscendi&repo=counter&theme=dark)](https://github.com/AdDiscendi/counter)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdDiscendi&show_icons=true&hide_title=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdDiscendi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
