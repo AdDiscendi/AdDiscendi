@@ -8,7 +8,7 @@ I am a ESB developer with a keen interest in various programming languages and f
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,github,rust&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdDiscendi&show_icons=true&hide_title=true&count_private=true&theme=radical)
