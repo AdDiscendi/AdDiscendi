@@ -1,10 +1,6 @@
 ## Hi there! 👋
 
-I'm **AdDiscendi**, a passionate developer based in Belgium. I love exploring new technologies and creating impactful projects. Let's collaborate and build something amazing together!
-
-## About Me
-
-I am a ESB developer with a keen interest in various programming languages and frameworks. Currently based in **Belgium**, I thrive on solving complex problems and enhancing my skills in the tech industry. I am currently working on webMethods and Mulesoft integration. 
+I am a ESB developer with a keen interest in various programming languages and frameworks. Currently based in **Belgium**, I thrive on solving complex problems and enhancing my skills in the tech industry.
 
 ## Skills & Technologies
 
